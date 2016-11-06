@@ -1,6 +1,0 @@
-Steps to generate file .md and .html
-------------------------------------
-
-1. Create file Rmarkdown.Rmd
-2. Run> library(knitr)
-3. Run> knit('Rmarkdown.Rmd')
